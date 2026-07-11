@@ -3,3 +3,8 @@ def greetWhite():
     
 def greetBkack():
     print("hello black")
+
+greetBkack()
+
+greetWhite()
+
